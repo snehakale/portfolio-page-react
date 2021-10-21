@@ -1,13 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Summary from './components/summary/summary';
-import Technologies from './components/technologies/technologies';
+import React from 'react';
+import Container from './components/UI/container';
 
 function App() {
   return (
     <div className="App">
-      <Summary />
-      <Technologies />
+      <Container/>
     </div>
   );
 }

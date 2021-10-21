@@ -1,0 +1,15 @@
+.container-left {
+    width: 30%;
+    margin-right: 10px;
+}
+  
+.container-right {
+    width: 70%;
+}
+  
+.container-style {
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 20px 20px 10px;
+    display: flex;
+}
