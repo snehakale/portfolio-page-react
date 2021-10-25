@@ -1,5 +1,5 @@
 import React from "react";
-import './technologies.css'
+import './Technologies.css'
 
 function Technologies(props) {
     return (
