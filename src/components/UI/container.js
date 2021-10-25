@@ -2,6 +2,7 @@ import Summary from '../summary/Summary';
 import Technologies from '../technologies/Technologies';
 import PersonalData from '../personal/Personal';
 import './Container.css';
+import Academics from '../academics/Academic';
 
 function Container() {
     return (
@@ -14,6 +15,9 @@ function Container() {
                     <Summary />
                     <Technologies />
                 </div>
+            </div>
+            <div className="container-style">
+                <Academics />
             </div>
         </div>
     );
