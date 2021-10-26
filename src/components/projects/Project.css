@@ -1,0 +1,32 @@
+.projects-container {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.project-box {
+    border: 2px solid black;
+    padding: 5px;
+    width: 30%;
+    margin: 5px;
+    flex: 1;
+    box-shadow: 5px 5px #888888;
+}
+
+.project-title {
+    font-weight: bold;
+}
+
+.project-text {
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 768px) {
+    .projects-container {
+        flex-direction: column;
+    }
+    .project-box {
+        width: 100%;
+    }
+}
