@@ -2,18 +2,18 @@ import Summary from '../summary/Summary';
 import Technologies from '../technologies/Technologies';
 import PersonalData from '../personal/Personal';
 import './Container.css';
-import Academics from '../academics/Academic';
 import Projects from '../projects/ProjectsAll';
+import Academics from '../academics/Academic';
 
 function Container() {
     return (
         <div>
-            <div className="container-style">
+            <div className="container-style container-fixed-box">
                 <div className="container-left"> 
                     <PersonalData />
+                    <Summary />
                 </div>
                 <div className="container-right">
-                    <Summary />
                     <Technologies />
                 </div>
             </div>

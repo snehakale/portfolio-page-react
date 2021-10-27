@@ -1,15 +1,31 @@
 .container-left {
     width: 30%;
     margin-right: 10px;
+    flex: 1;
 }
   
 .container-right {
     width: 70%;
+    flex: 1;
 }
   
 .container-style {
-    border: 2px solid grey;
     padding: 10px;
     margin: 20px 20px 10px;
     display: flex;
+}
+
+.container-fixed-box {
+    display: flex;
+}
+
+@media only screen and (max-width: 768px) {
+    .container-fixed-box {
+        flex-direction: column;
+    }
+
+    .container-left,
+    .container-right {
+        width: 100%;
+    }
 }
