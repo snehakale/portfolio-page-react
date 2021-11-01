@@ -2,3 +2,12 @@
     border: 2px solid grey;
     padding: 10px;
 }
+
+.technologies-title {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.technology-list {
+    text-align: left;
+}
