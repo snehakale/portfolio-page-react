@@ -33,7 +33,7 @@ function Projects(props) {
 
     return (
         <div>
-            <div className="project-title">Projects :</div>
+            <div className="project-title">Projects</div>
             <div className="projects-container">
                 <Project
                     title={projects[0].title}
