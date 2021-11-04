@@ -7,8 +7,7 @@ function Projects(props) {
     const projects = [
         {
             title: 'Portfolio Pgae using React JS',
-            desc: 'This is portfolio page built using react js library',
-            link: 'some link',
+            desc: 'This is a portfolio page built using react js library.',
             technologies: 'React js, CSS, HTML, JavaScript',
             company: 'Personal Project',
             role: 'React JS developer / STudent',
@@ -16,15 +15,13 @@ function Projects(props) {
         {
             title: 'IHG (Intercontinental Hotel Group)',
             desc: 'A multinational hotel indutry serving multiple brands and services',
-            link: 'some link',
             technologies: 'Angular js, CSS, HTML, JavaScript, TypeScript, Bootstrap',
-            company: 'IHG / TCS',
+            company: 'IHG',
             role: 'UI Developer',
         },
         {
             title: 'Webstac',
             desc: 'Portal for industries dealing with legislations for thier environment, health, safety',
-            link: 'some link',
             technologies: 'CSS, HTML,JavaScript, Java, Spring MVC, JSP, SQL',
             company: 'I2E consulting PVT LTD',
             role: 'Full Stack Web Developer',
