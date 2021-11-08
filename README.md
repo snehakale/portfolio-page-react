@@ -13,6 +13,7 @@ A portfolio page which contains one's personal and technical data. This is built
 ## Code Examples 
 This project contains a component based structure. Each component holds corresponding *js* and *css* files. 
 Eg. *Summary* component at `src/components/summary/`has following files: 
+
 (1) *Summary.js* - which contains the react **jsx** code 
 ``` 
 function Summary(props) {
@@ -31,6 +32,8 @@ function Summary(props) {
 1. React JS local environment setup : https://www.geeksforgeeks.org/reactjs-setting-development-environment/
 2. React JS components : https://www.geeksforgeeks.org/reactjs-components/ , https://reactjs.org/docs/components-and-props.html
 3. React JS complete library : https://reactjs.org/
+4. CSS Flexbox : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+5. CSS 3 features : https://www.w3schools.com/css/css3_borders.asp
 
 ## Author 
 Sneha Kale
