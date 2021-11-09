@@ -1,9 +1,9 @@
 # Portfolio Page (Using React js)
-A portfolio page which contains one's personal and technical data. This is built using *React JS* library. It also uses *JavaScript*, *CSS* and *HTML* etc. technologies.
+A portfolio page which contains one's personal and technical data. This is built using *React JS* library. It also uses *JavaScript*, *CSS3*, *CSS* and *HTML* etc. technologies.
 
 ## Pre-requisites and Installation 
 1. To run and work with React js app, you need *Node.js* installed on your machine. Download latest version and more information for Node.js here https://nodejs.org/en/download/current/. 
-2. You need to have code editor such as Visual Studio Code on your machine. It provides terminal to work ahead with GitHub and as well as to run the project. You can also install Git Bash / Git CLI. Find more information here : 
+2. To work with the project locally, you will need to have code editor such as Visual Studio Code on your machine. It provides terminal to work ahead with GitHub and as well as to run the project. You can also install Git Bash / Git CLI. Find more information here : 
   a. Visual Studio Code : https://code.visualstudio.com/
   b. Git : https://git-scm.com/ 
 3. You can clone the project from https://github.com/snehakale/portfolio-page-react.git to your directory on your machine. 
